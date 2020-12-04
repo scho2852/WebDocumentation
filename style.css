@@ -115,6 +115,7 @@ main {
 	padding-bottom: 40rem;
 }
 
+blockquote{font-style: normal;}
 section {
 	max-width: 800px;
 	padding: 1em 2em;
